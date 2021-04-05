@@ -1,0 +1,7 @@
+url:
+  api:
+    ibge: https://servicodados.ibge.gov.br/api/v1/localidades/estados/
+    viacep: https://viacep.com.br/ws/
+spring:
+  jpa:
+    show-sql: true
