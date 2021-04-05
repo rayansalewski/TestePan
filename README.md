@@ -1,5 +1,5 @@
 # Customer Service
-[![Build Status](https://travis-ci.com/github/rayansalewski/TestePan.svg?branch=main)](https://travis-ci.com/github/rayansalewski/TestePan)
+[![Build Status](https://travis-ci.com/rayansalewski/TestePan.svg?branch=main)](https://travis-ci.com/github/rayansalewski/TestePan)
 
 ### Requirements
 
