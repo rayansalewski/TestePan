@@ -16,11 +16,5 @@
 
 ### Request methods
 
-| Command                       | URI                                                | JSON                                                                                                                            |
-| ----------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `Listar todos os cliente`     | GET http://localhost:8080/clientes/                | NA                                                                                                                              |
-| `Consultar clientes pelo CPF` | GET http://localhost:8080/clientes/{cpf}           | NA                                                                                                                              |
-| `Altera endereço do cliente`  | PUT http://localhost:8080/clientes/{cpf}/enderecos | {"logradouro": "Rua Almirante","numero": 30,"bairro": "Residencial Cumbica","cidade": "Guarulhos","uf": "SP","cep": "07174470"} |
-| `Consultar endereço pelo CEP` | GET http://localhost:8080/enderecos/{cep}          | NA                                                                                                                              |
-| `Consultar Municipio`         | GET http://localhost:8080/estados/{uf}             | NA                                                                                                                              |
-| `Consultar Estados`           | GET http://localhost:8080/estados/                 | NA                                                                                                                              |
+1. Download Postman Collection : `https://github.com/rayansalewski/TestePan/blob/main/TestePan.postman_collection`
+2. Swagger: `http://localhost:8080/swagger-ui.html`
